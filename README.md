@@ -8,7 +8,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## My Certificate of Completion
 
-![](https://github.com/abhibothera/jpmorganvirtualinternship/blob/master/JP%20Morgan.pdf)
+![](https://github.com/abhibothera/jpmorganvirtualinternship/blob/master/JP%20Morgan.png)
 
 ## For any queries/doubts:
 
